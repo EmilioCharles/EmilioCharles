@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;"/>
+  <img src="Emilio.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;"/>
   <br />
   <h1>Hi, I'm Emilio Charles Ugero</h1>
   <h3>Data-Driven Frontend Engineer | Product Designer</h3>
